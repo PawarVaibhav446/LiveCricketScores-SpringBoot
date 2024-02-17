@@ -24,3 +24,8 @@ CWC 2023 Points Table:
 Endpoint: /points-table
 Method: GET
 Description: Retrieves and displays the points table for the Cricket World Cup 2023.
+
+All Matches:
+Endpoint: /match
+Method: GET
+Description: Landing Endpoint
